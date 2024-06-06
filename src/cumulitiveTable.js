@@ -7,11 +7,8 @@ import { Stack } from "@mui/material";
 import DemoRadioGroup from "./demoRadioGroup";
 
 const CumulitiveTable = props => {
-  // const [data, setData] = useState([]);
-  // useEffect(() => setData(fetchedData), [fetchedData]);
   let data = props.data;
-  console.log("grouping ", props.data[0]);
-  // return null;
+
   const columns = useMemo(
     () => [
       {
@@ -48,8 +45,6 @@ const CumulitiveTable = props => {
   );
 
   const [groupedColumnMode, setGroupedColumnMode] = useState("reorder");
-
-  // const rootData = useMemo(() => data.filter(r => !r.jobYear), [data]);
 
   const table = useMaterialReactTable({
     columns,

@@ -7,7 +7,6 @@ const App = () => {
   const [data, setData] = useState([]);
 
   const handleChange = fetchedData => {
-    // let data = fetchedData.map(el => {
     let tempData = fetchedData.map(el => {
       let jobDate = new Date(el.jobDate);
       el.jobYear = jobDate.getFullYear();
