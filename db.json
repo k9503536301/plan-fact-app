@@ -1,0 +1,76 @@
+{
+    "worklist":[
+        {
+          "id": "9s41rp",
+          "objectName": "Объект 1",
+          "title": "Работа 1",
+          "workingDate": "2020-04-18",
+          "sumFact": 140000,
+          "sumPlan": 150000
+        },
+        {
+          "id": "08m6rx",
+          "objectName": "Объект 2",
+          "title": "Работа 2",
+          "workingDate": "2020-03-20",
+          "sumFact": 140000,
+          "sumPlan": 150000
+        },
+        {
+          "id": "5ymtrc",
+          "objectName": "Объект 3",
+          "title": "Работа 3",
+          "workingDate": "2020-06-09",
+          "sumFact": 140000,
+          "sumPlan": 150000
+        },
+        {
+          "id": "ek5b97",
+          "objectName": "Объект 4",
+          "title": "Работа 4",
+          "workingDate": "2020-06-10",
+          "sumFact": 140000,
+          "sumPlan": 150000
+        },
+        {
+          "id": "xxtydd",
+          "objectName": "Объект 5",
+          "title": "Работа 5",
+          "workingDate": "2020-07-07",
+          "sumFact": 140000,
+          "sumPlan": 150000
+        },
+        {
+          "id": "wzxj9m",
+          "objectName": "Объект 6",
+          "title": "Работа 6",
+          "workingDate": "2019-07-08",
+          "sumFact": 140000,
+          "sumPlan": 150000
+        },
+        {
+          "id": "9s41r1",
+          "objectName": "Объект 7",
+          "title": "Работа 7",
+          "workingDate": "2019-07-20",
+          "sumFact": 140000,
+          "sumPlan": 150000
+        },
+        {
+          "id": "08m8rx",
+          "objectName": "Объект 8",
+          "title": "Работа 8",
+          "workingDate": "2020-10-10",
+          "sumFact": 140000,
+          "sumPlan": 150000
+        },
+        {
+          "id": "5ymtr8",
+          "objectName": "Объект 9",
+          "title": "Работа 9",
+          "workingDate": "2020-11-11",
+          "sumFact": 140000,
+          "sumPlan": 150000
+        }
+      ]
+}
